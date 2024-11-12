@@ -1,4 +1,4 @@
-### Hi there, I'm [Sarvesh Mudaliar](https://github.com/AnkushGitRepo) 👋
+### Hi there, I'm [Sarvesh Mudaliar](https://github.com/SARVESH2K6) 👋
 
 A second-year Computer Engineering and Applications student at [LJ University](https://ljku.edu.in/), Ahmedabad, India. I have a strong passion for Artificial Intelligence and Machine Learning and actively pursue projects in these fields. I regularly contribute to open-source projects and share my work on my GitHub profile.
 
@@ -65,6 +65,3 @@ A second-year Computer Engineering and Applications student at [LJ University](h
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zodiac_2k6/)
 
 </p>
-
-| <a href="https://github.com/AnkushGitRepo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AnkushGitRepo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ankush's github stats" /></a> | <a href="https://github.com/AnkushGitRepo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkushGitRepo&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
