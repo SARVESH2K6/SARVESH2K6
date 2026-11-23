@@ -1,6 +1,6 @@
 ### Hi there, I'm [Sarvesh Mudaliar](https://github.com/SARVESH2K6) 👋
 
-A second-year Computer Engineering and Applications student at [LJ University](https://ljku.edu.in/), Ahmedabad, India. I have a strong passion for Artificial Intelligence and Machine Learning and actively pursue projects in these fields. I regularly contribute to open-source projects and share my work on my GitHub profile.
+A Final Year Computer Engineering and Applications student at [LJ University](https://ljku.edu.in/), Ahmedabad, India. I have a strong passion for Artificial Intelligence and Machine Learning and actively pursue projects in these fields. I regularly contribute to open-source projects and share my work on my GitHub profile.
 
 **My Interest**:
 - Artificial Intelligence
